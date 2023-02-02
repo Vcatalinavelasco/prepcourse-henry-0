@@ -1,2 +1,1 @@
-# prepcourse-henry-0
-es de prueba para mi estudio 
+prueba de creación de repositorio y clonación 
